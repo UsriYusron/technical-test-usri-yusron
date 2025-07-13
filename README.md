@@ -33,7 +33,7 @@ Pastikan kamu sudah menginstall:
 Lakukan langkah-langkah berikut untuk menjalankan projek:
 1. Clone Repository
    - Unduh langsung dengan format .zip atau
-   - Paste baris ini "**git clone https://github.com/nama-user/nama-repository](https://github.com/Usri-Yusron/technical-test-be-aksamedia.git**" di dalam folder htdocs (xampp/wampp) atau www (laragon) dengan CMD"
+   - Paste baris ini "**git clone https://github.com/UsriYusron/technical-test-usri-yusron**" di dalam folder htdocs (xampp/wampp) atau www (laragon) dengan CMD"
    - Masuk ke dalam VsCode atau IDE lainnya didalam folder project
      
 2. Install Dependency
